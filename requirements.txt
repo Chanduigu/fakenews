@@ -1,0 +1,8 @@
+Flask
+requests
+beautifulsoup4
+openai>=1.0.0
+cohere
+python-dotenv
+joblib
+scikit-learn
