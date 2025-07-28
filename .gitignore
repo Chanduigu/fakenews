@@ -1,0 +1,28 @@
+# Secret keys and environment variables
+.env
+.env.*
+
+# Compiled python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Model files and datasets
+*.pkl
+*.joblib
+*.csv
+*.tsv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS and Windows system files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
